@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteRiceMGMG&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteRiceMGMG&show_icons=true&locale=en&layout=compact&cache_seconds=0)
 
 # About Me
 
