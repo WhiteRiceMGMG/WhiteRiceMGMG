@@ -1,16 +1,20 @@
-## Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteRiceMGMG&show_icons=true&locale=en&layout=compact)
 
-<!--
-**WhiteRiceMGMG/WhiteRiceMGMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I'm an embedded systems engineer specializing in low-level software development for automotive applications.
+My primary programming language is C, and I work on designing and implementing real-time, memory-efficient firmware for in-vehicle systems.
+I'm particularly proficient in bare-metal programming, microcontroller-based development, and Linux-based embedded environments, with a strong focus on performance optimization and hardware-software integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,linux,eclipse,ros,python,bash,arduino,raspberrypi,docker" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
