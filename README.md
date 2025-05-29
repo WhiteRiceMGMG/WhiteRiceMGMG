@@ -8,13 +8,14 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 
 
 ## Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,shell" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=c,linux,eclipse,ros,python,bash,arduino,raspberrypi,docker" /> <br /><br />
 
 ## Frameworks and Library
+<img src="https://skillicons.dev/icons?i=ros,qt,cmake,langchain" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=linux,vim,neovim,eclipse,arduino,raspberrypi,docker,git,github,vscode" /> <br /><br />
+
