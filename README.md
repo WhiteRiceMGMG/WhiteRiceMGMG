@@ -19,3 +19,11 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 
 <img src="https://skillicons.dev/icons?i=linux,vim,neovim,eclipse,arduino,raspberrypi,docker,git,github,vscode" /> <br /><br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=WhiteRiceMGMG&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=donut&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight)
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,docker,python,c,linux,bash,raspberrypi" /><br />
+
