@@ -6,8 +6,8 @@ Hi,there🦙<br>
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="150"  alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="150"  alt="GitHub Stats"&cache_seconds=1 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="150" alt="Top Languages"&cache_seconds=1 />
 </div>
 
 ## Programming Languages
