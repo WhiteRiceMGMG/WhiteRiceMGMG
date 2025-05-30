@@ -18,8 +18,8 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="200"  alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"width="200"  alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"width="200" alt="Top Languages" />
 </div>
 
 
