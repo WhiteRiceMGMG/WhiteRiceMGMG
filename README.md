@@ -1,8 +1,8 @@
 # About Me
-
-I'm an embedded systems engineer specializing in low-level software development for automotive applications.
-My primary programming language is C, and I work on designing and implementing real-time, memory-efficient firmware for in-vehicle systems.
-I'm particularly proficient in bare-metal programming, microcontroller-based development, and Linux-based embedded environments, with a strong focus on performance optimization and hardware-software integration.
+Hi,there🦙
+1.I'm an embedded systems engineer specializing in low-level software development for automotive applications.
+2.My primary programming language is C, and I work on designing and implementing real-time, memory-efficient firmware for in-vehicle systems.
+3.I'm particularly proficient in bare-metal programming, microcontroller-based development, and Linux-based embedded environments, with a strong focus on performance optimization and hardware-software integration.
 
 
 ## Programming Languages
