@@ -13,7 +13,7 @@ Hi,there🦙<br>
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=linux,vim,neovim,eclipse,arduino,raspberrypi,docker,git,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=linux,vim,eclipse,arduino,raspberrypi,docker,git,github,vscode" /> <br /><br />
 
 ## 📊 GitHub Stats
 
