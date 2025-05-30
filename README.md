@@ -17,6 +17,22 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimura-manase&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pyupyuu-maru&show_icons=true&theme=tokyonight" 
+       height="200" 
+       style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;" 
+       alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyupyuu-maru&layout=compact&theme=tokyonight" 
+       height="200" 
+       style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;" 
+       alt="Top Languages" />
+
+</div>
+
 
 ## Frameworks and Library
 <img src="https://skillicons.dev/icons?i=ros,qt,cmake,langchain" /> <br /><br />
