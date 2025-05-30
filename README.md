@@ -4,6 +4,10 @@ Hi,there🦙<br>
 2.I mainly use C to develop real-time, memory-efficient firmware for automotive systems.<br>
 3.Skilled in bare-metal, MCU, and embedded Linux with focus on performance and integration.<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="150"  alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="150" alt="Top Languages" />
+</div>
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,shell" /> <br /><br />
@@ -17,9 +21,6 @@ Hi,there🦙<br>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="150"  alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="150" alt="Top Languages" />
-</div>
+
 
 
