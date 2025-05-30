@@ -13,8 +13,8 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukimura-manase&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimura-manase&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yukimura-manase&show_icons=true&theme=tokyonight"height="200"  alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimura-manase&layout=compact&theme=tokyonight"height="200" alt="Top Languages" />
 </div>
 
 ## 📊 GitHub Stats
