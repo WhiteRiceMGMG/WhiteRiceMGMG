@@ -1,5 +1,3 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteRiceMGMG&show_icons=true&locale=en&layout=compact&cache_seconds=0)
-
 # About Me
 
 I'm an embedded systems engineer specializing in low-level software development for automotive applications.
@@ -15,22 +13,6 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WhiteRiceMGMG&show_icons=true&theme=tokyonight"height="200"  alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRiceMGMG&layout=compact&theme=tokyonight"height="200" alt="Top Languages" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pyupyuu-maru&show_icons=true&theme=tokyonight" 
-       height="200" 
-       style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;" 
-       alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyupyuu-maru&layout=compact&theme=tokyonight" 
-       height="200" 
-       style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;" 
-       alt="Top Languages" />
-
 </div>
 
 
