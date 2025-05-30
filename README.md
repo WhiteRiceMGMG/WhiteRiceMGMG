@@ -10,6 +10,13 @@ I'm particularly proficient in bare-metal programming, microcontroller-based dev
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,shell" /> <br /><br />
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yukimura-manase&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimura-manase&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
 
 ## Frameworks and Library
 <img src="https://skillicons.dev/icons?i=ros,qt,cmake,langchain" /> <br /><br />
