@@ -1,8 +1,6 @@
 # About Me
 Hi,there🦙<br>
-1.I'm an embedded systems engineer specializing in low-level software development for automotive applications.<br>
-2.I mainly use C to develop real-time, memory-efficient firmware for automotive systems.<br>
-3.Skilled in bare-metal, MCU, and embedded Linux with focus on performance and integration.<br>
+一生勉強‼️男は仕事‼️全ての出会いに感謝‼️<br>
 
 ## GitHub Stats
 <div align="center">
