@@ -1,6 +1,7 @@
 # About Me
 Hi,there🦙<br>
-一生勉強‼️男は仕事‼️全ての出会いに感謝‼️<br>
+一生勉強‼️毎日仕事‼️全ての出会いに感謝‼️<br>
+ありがとう‼️
 
 ## GitHub Stats
 <div align="center">
