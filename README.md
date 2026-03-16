@@ -13,7 +13,7 @@ Hi,there🦙<br>
 <img src="https://skillicons.dev/icons?i=c" /> <br /><br />
 
 ## Frameworks and Library
-<img src="https://skillicons.dev/icons?i=ros,qt,cmake,langchain" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ros,cmake,langchain" /> <br /><br />
 
 ## DB and Dev Tools etc
 
