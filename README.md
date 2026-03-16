@@ -10,14 +10,14 @@ Hi,there🦙<br>
 </div>
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,shell" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c" /> <br /><br />
 
 ## Frameworks and Library
 <img src="https://skillicons.dev/icons?i=ros,qt,cmake,langchain" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=linux,vim,eclipse,arduino,raspberrypi,docker,git,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=eclipse,raspberrypi" /> <br /><br />
 
 
 
